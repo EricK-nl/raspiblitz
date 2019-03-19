@@ -294,7 +294,7 @@ echo "*** BITCOIN ***"
 # based on https://github.com/Stadicus/guides/blob/master/raspibolt/raspibolt_30_bitcoin.md#installation
 
 # set version (change if update is available)
-bitcoinVersion="0.17.0.1"
+bitcoinVersion="0.17.1"
 
 # needed to make sure download is not changed
 # calulate with sha256sum and also check with SHA256SUMS.asc
